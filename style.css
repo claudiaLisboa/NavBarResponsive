@@ -13,6 +13,7 @@
 body{
     position: relative;
     height: 100vh;
+    background-color:rgb(242, 239, 217);
 }
 
 img{
