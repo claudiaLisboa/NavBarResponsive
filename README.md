@@ -4,16 +4,19 @@
 
 
 
-<img width="1440" alt="Screenshot 2023-05-09 at 3 14 33 PM" src="https://github.com/claudiaLisboa/NavBarResponsive/assets/21189063/e2aee57d-3c4b-48cb-8f54-baf002684e22">
+![Screenshot 2023-05-10 at 12 37 48 PM](https://github.com/claudiaLisboa/NavBarResponsive/assets/21189063/f74e5e96-c758-4ea6-a8ed-7e01e7bd11c5)
 
-
-#########################################
-
-<img width="686" alt="Screenshot 2023-05-09 at 3 15 02 PM" src="https://github.com/claudiaLisboa/NavBarResponsive/assets/21189063/2652114e-8cc5-4696-834e-b50105aae429">
 
 
 #########################################
 
 
-<img width="688" alt="Screenshot 2023-05-09 at 3 15 16 PM" src="https://github.com/claudiaLisboa/NavBarResponsive/assets/21189063/a737b998-b697-4d0b-bcae-3d9b58d12d2a">
+![Screenshot 2023-05-10 at 12 37 22 PM](https://github.com/claudiaLisboa/NavBarResponsive/assets/21189063/98c17282-bc03-4b35-bfed-f2e6cb393168)
+
+
+#########################################
+
+
+![Screenshot 2023-05-10 at 12 41 44 PM](https://github.com/claudiaLisboa/NavBarResponsive/assets/21189063/88760406-a851-4f67-b482-39db3ba81fec)
+
 
